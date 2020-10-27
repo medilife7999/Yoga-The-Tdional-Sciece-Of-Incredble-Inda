@@ -1,2 +1,37 @@
-# Yoga-The-Traditional-Science-Of-Incredible-India
-Yoga The Traditional Science Of Incredible India  Yoga is a connection that makes amicability by adjusting all the three parts in particular; body, brain, and soul into one.  This amicability, thus, exists to help life.  As per Yoga, wellbeing is an incorporated condition of body, brain, and soul. It is an all around facilitated and adjusted state of body and psyche.  The essential goal of yoga is otherworldly progression; it has been seen that numerous wellbeing issues are controlled best with the assistance of yoga rehearses.  Each living being is well outfitted with mending power. Yoga develops this common quality of the body and psyche to dispose of upsetting variables.  Subsequently, yoga supports and improves this mending power by keeping up the harmony through the advancement of ideal muscle tone. Yoga, hence, has the ability to mend different illnesses.  More often than not, the primer reconditioning of the individual patient is important before beginning the fundamental yogic treatment.  So as to avoid illnesses yoga lays accentuation on the accompanying advances:  Sanitization of 'Nadis' by eliminating the deterring poisons from the body.  Reconditioning of the neuro-solid and glandular framework so satisfactory insusceptibility is recaptured.  Development of appropriate mental disposition to build the capacity of the person to adapt to the unpleasant circumstance assuming any. 
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/medilife7999/Yoga-The-Traditional-Science-Of-Incredible-India/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/medilife7999/Yoga-The-Traditional-Science-Of-Incredible-India/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
